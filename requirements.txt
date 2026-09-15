@@ -1,0 +1,7 @@
+tensorflow 
+scikit-learn 
+pandas 
+numpy 
+imbalanced-learn 
+shap 
+streamlit
